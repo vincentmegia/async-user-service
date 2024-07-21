@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: async-user
+
+  #redis db config
+  redis:
+    #host: "192.168.3.60"
+    host: "127.0.0.1"
+    port: 6379
